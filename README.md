@@ -8,7 +8,7 @@
 1.Basicamente o objetivo principal é clicar em um dos três botões "pedra", "papel" ou "tesoura" ("rock", "paper", "scissors").
 <br>
 <br>
-2.Após escolher e clicar em ums dos Emoji 👊 🖐️ ✌️  mostrará se o usuário ganhou, perdeu ou até mesmo empatou com a máquina(Alexa).💻
+2.Após escolher e clicar em ums dos Emoji 👊 🖐️ ✌️  mostrará se o usuário ganhou, perdeu ou até mesmo se empatou com a máquina(Alexa).💻
 <br>
 <br>
 3.Caso o usuário vença á (Alexa), o usuário ganha 1 ponto (número em azul), mas caso ele perca a máquina ganha 1 ponto (número em vermelho). 
