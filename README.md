@@ -14,7 +14,7 @@
 3.Caso o usuário vença á (Alexa), o usuário ganha 1 ponto (número em azul), mas caso ele perca a máquina ganha 1 ponto (número em vermelho). 
 <br>
 <br>
-4.Cada vez que o jogador clicar em ums dos comandos para jogar 👊 🖐️ ✌️ soma-se mais um ponto para o jogador se ele ganhar ou para a máquina se ele perder. Caso dê empate, a pontuação permanece a mesma.
+4.Cada vez que o jogador clicar em ums dos comandos para jogar 👊 🖐️ ✌️ soma-se mais um ponto para o jogador se ele ganhar, ou para a máquina, se ela perder. Caso dê empate, a pontuação permanece a mesma.
   
   # 😎 Agradecimentos!
 Agradeço ao mestre <a href="https://www.github.com/rodolfomori">Rodolfo Mori</a> @DevClub por proporcionar esse desafio em criar um jogo simples e divertido , apenas com o aprendizado das aulas e com a minha imaginação em relação as estilizações.
