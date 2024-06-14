@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>JoKenPô-DevClub.</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Pedra-Papel-Tesoura</h1>
+        
+        <img alt="imagess" src="./Assest/imagess.jpeg">
+
+        <div class="buttons">
+            <button id="rock" onclick="playHuman('rock')">👊</button>
+            <button id="paper"onclick="playHuman('paper')">🖐️</button>
+            <button id="scissors"onclick="playHuman('scissors')">✌️</button>
+        </div>
+        
+<p class="result"></p>
+
+
+        <p class="your-score">Sua Pontuação: <span id="human-score">0</span></p>
+        <p class="machine-score"> Pontuação da Alexa: <span id="machine-score">0</span></p>
+
+       
+    </div>
+    <script src="./scripts.js"></script>
+
+</body>
+
+</html>
