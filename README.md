@@ -1,5 +1,5 @@
 <div>
-  <h1>JOKENPÔ-DEV.</h1>
+  <h1>JOKENPÔ-Kids.</h1>
 
 # 🎤Sobre o projeto:
 👊 🖐️ ✌️ JOKENPÔ é uma brinacdeira simples e divertida, trouxemos da vida real para o mundo da programação.
